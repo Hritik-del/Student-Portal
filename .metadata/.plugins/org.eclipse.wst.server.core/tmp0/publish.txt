@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Sun Oct 22 21:42:41 IST 2023
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Hritik\\.m2\\repository\\org\\springframework\\spring-web\\6.0.10\\spring-web-6.0.10.jar=WEB-INF/lib/spring-web-6.0.10.jar
