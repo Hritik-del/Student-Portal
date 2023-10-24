@@ -1,0 +1,5 @@
+package com.seleniumexpress.sm.config;
+
+public class StudentAppConfig {
+
+}

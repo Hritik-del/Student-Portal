@@ -10,10 +10,12 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-	<spring.versions>6.0.10</spring.versions>
-	<mysql.version>8.0.33</mysql.version>
-	<javax.versions>1.2</javax.versions>
-	<javax-servlet.versions>4.0.1</javax-servlet.versions>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<spring.versions>5.2.11.RELEASE</spring.versions>
+		<mysql.version>8.0.33</mysql.version>
+		<javax.versions>1.2</javax.versions>
+		<javax-servlet.versions>4.0.1</javax-servlet.versions>
 	</properties>
 	<dependencies>
 
